@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/Task1/Task1.csproj": {}
+    "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/HW2_Task1/Task1.csproj": {}
   },
   "projects": {
-    "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/Task1/Task1.csproj": {
+    "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/HW2_Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/Task1/Task1.csproj",
+        "projectUniqueName": "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/HW2_Task1/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/Task1/Task1.csproj",
+        "projectPath": "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/HW2_Task1/Task1.csproj",
         "packagesPath": "/home/sergey/.nuget/packages/",
-        "outputPath": "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/Task1/obj/",
+        "outputPath": "/home/sergey/Desktop/GeekBrains/C/Sem2/HW2/HW2_Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sergey/.nuget/NuGet/NuGet.Config"
